@@ -1,4 +1,4 @@
 # SpaceShooter
 Python
 
-![game](/Game.png)
+![game](Game.png)
